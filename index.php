@@ -21,7 +21,7 @@
   <table border='0'>
     <thead>
       <tr>
-        <th>DOM</th> https://github.com/hcodebr/php-8-calendar
+        <th>DOM</th>
         <th>SEG</th>
         <th>TER</th>
         <th>QUA</th>
